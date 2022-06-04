@@ -31,7 +31,7 @@ require (
 	github.com/kelseyhightower/envconfig v1.3.0
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/lib/pq v1.7.0
-	github.com/minio/minio-go/v6 v6.0.43
+	github.com/minio/minio-go/v6 v6.0.57
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.6.0
@@ -43,7 +43,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.2
 	go.mongodb.org/mongo-driver v1.7.1
 	go.opencensus.io v0.23.0
-	golang.org/x/mod v0.4.2
+	golang.org/x/mod v0.5.1
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
@@ -77,15 +77,20 @@ require (
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.3.0 // indirect
 	github.com/joho/godotenv v1.3.0 // indirect
+	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/klauspost/compress v1.9.5 // indirect
+	github.com/klauspost/cpuid v1.2.3 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/markbates/hmax v1.0.0 // indirect
 	github.com/mattn/go-colorable v0.1.9 // indirect
 	github.com/mattn/go-ieproxy v0.0.0-20190702010315-6dee0af9227d // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
+	github.com/minio/md5-simd v1.1.0 // indirect
 	github.com/minio/sha256-simd v0.1.1 // indirect
 	github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7 // indirect
+	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
+	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.11.0 // indirect
